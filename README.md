@@ -25,7 +25,6 @@
 | Unit Tests | Vitest + React Testing Library |
 | Interaction Tests | Storybook play functions |
 | Local Dev | Docker + docker-compose |
-| Deploy | Netlify |
 
 ---
 
