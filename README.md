@@ -1,20 +1,11 @@
 <div align="center">
-  <img src="./logo.svg" alt="React Atomic Design Demo" width="120" height="120">
+  <img src="./logo.svg" width="120" alt="React Atomic Design Demo" />
+
+  <h1>React Atomic Design Demo</h1>
+  <p>A hands-on demo of the Atomic Design methodology — atoms → molecules → organisms → templates → pages, with Storybook, Vitest, and Docker.</p>
+
+  🇬🇧 English · <a href="./README.tr.md">🇹🇷 Türkçe</a>
 </div>
-
-<div align="center">
-
-  <a href="./README.md">🇬🇧 English</a> · <a href="./README.tr.md">🇹🇷 Türkçe</a>
-
-</div>
-
-<br/>
-
-# React Atomic Design Demo
-
-A hands-on demo of the **Atomic Design** methodology — building a React UI from the smallest units (atoms) up to full pages, with isolated component development in Storybook, unit tests with Vitest, and Docker support for local development.
-
-**Live Demo:** [react-atomic-design-demo.yasinates.com](https://react-atomic-design-demo.yasinates.com)
 
 ---
 
@@ -28,8 +19,6 @@ A hands-on demo of the **Atomic Design** methodology — building a React UI fro
 | Unit Tests | Vitest + React Testing Library |
 | Interaction Tests | Storybook play functions |
 | Local Dev | Docker + docker-compose |
-
----
 
 ## Local Setup
 
@@ -55,9 +44,11 @@ npm run test:run   # Vitest unit tests
 npm run storybook  # Storybook interaction tests (Interactions panel)
 ```
 
----
+## Live Demo
 
-## Related Articles
+[react-atomic-design-demo.yasinates.com](https://react-atomic-design-demo.yasinates.com)
+
+## Articles
 
 - 🇬🇧 [Atomic Design in Practice: React and Storybook from Scratch](https://dev.to/yasinatesim/atomic-design-in-practice-react-and-storybook-from-scratch-2gkh)
 - 🇹🇷 [Atomic Design Prensibi (React ve Storybook Örnekleriyle)](https://medium.com/@yasinatesim/atomic-design-prensibi-react-ve-storybook-%C3%B6rnekleriyle-e43e50ca9807)

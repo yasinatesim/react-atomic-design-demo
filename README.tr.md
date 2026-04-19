@@ -1,20 +1,11 @@
 <div align="center">
-  <img src="./logo.svg" alt="React Atomic Design Demo" width="120" height="120">
+  <img src="./logo.svg" width="120" alt="React Atomic Design Demo" />
+
+  <h1>React Atomic Design Demo</h1>
+  <p>Atomic Design metodolojisinin uygulamalı demosu — atom → molekül → organizma → şablon → sayfa, Storybook, Vitest ve Docker ile.</p>
+
+  <a href="./README.md">🇬🇧 English</a> · 🇹🇷 Türkçe
 </div>
-
-<div align="center">
-
-  <a href="./README.md">🇬🇧 English</a> · <a href="./README.tr.md">🇹🇷 Türkçe</a>
-
-</div>
-
-<br/>
-
-# React Atomic Design Demo
-
-**Atomic Design** metodolojisinin uygulamalı bir demosu — React UI'ı en küçük birimlerden (atomlar) tam sayfalara kadar inşa eder; Storybook ile izole component geliştirme, Vitest ile unit testler ve yerel geliştirme için Docker desteği içerir.
-
-**Canlı Demo:** [react-atomic-design-demo.yasinates.com](https://react-atomic-design-demo.yasinates.com)
 
 ---
 
@@ -28,8 +19,6 @@
 | Unit Testler | Vitest + React Testing Library |
 | Etkileşim Testleri | Storybook play fonksiyonları |
 | Local Geliştirme | Docker + docker-compose |
-
----
 
 ## Local Kurulum
 
@@ -55,7 +44,9 @@ npm run test:run   # Vitest unit testleri
 npm run storybook  # Storybook interaction testleri (Interactions paneli)
 ```
 
----
+## Canlı Demo
+
+[react-atomic-design-demo.yasinates.com](https://react-atomic-design-demo.yasinates.com)
 
 ## Makaleler
 
