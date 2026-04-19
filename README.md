@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.svg" alt="React Atomic Design Demo" width="360" height="80">
+  <img src="./logo.svg" alt="React Atomic Design Demo" width="120" height="120">
 </div>
 
 <div align="center">
