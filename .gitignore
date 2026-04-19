@@ -2,3 +2,9 @@ node_modules
 dist
 .superpowers
 .env
+
+*storybook.log
+storybook-static
+docs
+coverage
+node-compile-cache
