@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.svg" alt="React Atomic Design Demo" width="320" height="100">
+  <img src="./logo.svg" alt="React Atomic Design Demo" width="360" height="80">
 </div>
 
 <div align="center">
@@ -11,9 +11,7 @@
 
 # React Atomic Design Demo
 
-**Live Demo:** <!-- Add Netlify URL after deploy -->
-
-> Based on the article: [Atomic Design in Practice: React and Storybook from Scratch](https://dev.to/yasinatesim/atomic-design-in-practice-react-and-storybook-from-scratch-2gkh)
+**Live Demo:** [react-atomic-design-demo.yasinates.com](https://react-atomic-design-demo.yasinates.com)
 
 ---
 
@@ -54,6 +52,13 @@ docker compose up
 npm run test:run   # Vitest unit tests
 npm run storybook  # Storybook interaction tests (Interactions panel)
 ```
+
+---
+
+## Related Articles
+
+- 🇬🇧 [Atomic Design in Practice: React and Storybook from Scratch](https://dev.to/yasinatesim/atomic-design-in-practice-react-and-storybook-from-scratch-2gkh)
+- 🇹🇷 [Atomic Design Prensibi (React ve Storybook Örnekleriyle)](https://medium.com/@yasinatesim/atomic-design-prensibi-react-ve-storybook-%C3%B6rnekleriyle-e43e50ca9807)
 
 ---
 
