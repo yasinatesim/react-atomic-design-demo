@@ -1,21 +1,19 @@
 <div align="center">
+  <img src="./logo.svg" alt="React Atomic Design Demo" width="320" height="100">
+</div>
+
+<div align="center">
   <a href="./README.md">🇬🇧 English</a> ·
   <a href="./README.tr.md">🇹🇷 Türkçe</a>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="./logo.svg" alt="React Atomic Design Demo" width="320" height="100">
-</div>
-
-<br/>
-
 # React Atomic Design Demo
 
-A production-style demo of the **Atomic Design** methodology built with React, Vite, and Storybook. Based on the [Medium article](https://medium.com/@yasinatesim) by Yasin Ateş.
-
 **Live Demo:** <!-- Add Netlify URL after deploy -->
+
+> Based on the article: [Atomic Design in Practice: React and Storybook from Scratch](https://dev.to/yasinatesim/atomic-design-in-practice-react-and-storybook-from-scratch-2gkh)
 
 ---
 
@@ -56,10 +54,6 @@ docker compose up
 npm run test:run   # Vitest unit tests
 npm run storybook  # Storybook interaction tests (Interactions panel)
 ```
-
-## Netlify Deploy
-
-Connect repo to Netlify. Build settings are in `netlify.toml`.
 
 ---
 
