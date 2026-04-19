@@ -1,4 +1,4 @@
-import { expect, userEvent, within } from '@storybook/test'
+import { expect, userEvent, within } from 'storybook/test'
 import ProductCard from './ProductCard'
 
 export default {
