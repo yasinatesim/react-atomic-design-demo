@@ -3,13 +3,16 @@
 </div>
 
 <div align="center">
-  <a href="./README.md">🇬🇧 English</a> ·
-  <a href="./README.tr.md">🇹🇷 Türkçe</a>
+
+  <a href="./README.md">🇬🇧 English</a> · <a href="./README.tr.md">🇹🇷 Türkçe</a>
+
 </div>
 
 <br/>
 
 # React Atomic Design Demo
+
+**Atomic Design** metodolojisinin uygulamalı bir demosu — React UI'ı en küçük birimlerden (atomlar) tam sayfalara kadar inşa eder; Storybook ile izole component geliştirme, Vitest ile unit testler ve yerel geliştirme için Docker desteği içerir.
 
 **Canlı Demo:** [react-atomic-design-demo.yasinates.com](https://react-atomic-design-demo.yasinates.com)
 
